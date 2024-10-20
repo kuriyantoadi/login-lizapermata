@@ -35,7 +35,7 @@
         <div class="row">
           <!-- /.col -->
           <div class="col-12">
-            <a href="https://lizapermata.my.id/cilegon" class="btn btn-primary btn-block m-2">Liza Permata Cilegon</a>
+            <a href="https://lizapermata.my.id/cilegon" class="btn btn-secondary btn-block m-2">Liza Permata Cilegon</a>
           </div>
           <!-- /.col -->
         </div>
@@ -43,7 +43,7 @@
         <div class="row">
           <!-- /.col -->
           <div class="col-12">
-            <a href="https://lizapermata.my.id/panimbang" class="btn btn-primary btn-block m-2">Liza Permata Panimbang</a>
+            <a href="https://lizapermata.my.id/panimbang" class="btn btn-secondary btn-block m-2">Liza Permata Panimbang</a>
           </div>
           <!-- /.col -->
         </div>
